@@ -1,4 +1,7 @@
 function Introduction() {
+
+  console.log(process.env.PUBLIC_URL);
+
   return (
     <div>
       <section id="colorlib-hero" className="js-fullheight" data-section="home">
@@ -41,7 +44,7 @@ function Introduction() {
                   <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                     <div className="slider-text-inner">
                       <div className="desc">
-                        <h1 style={{color: "white"}}>I often <br />Write ... </h1>
+                        <h1 style={{color: "white"}}>I often <br />write ... </h1>
                         <p><a className="btn btn-primary btn-learn" href="https://realprocrastinator.github.io/review-notes/" target="_blank" rel="noopener noreferrer">View Blogs & Notes <i className="icon-book" /></a></p>
                       </div>
                     </div>

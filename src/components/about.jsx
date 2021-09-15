@@ -10,8 +10,8 @@ function About() {
                   <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from UNSW. I love exploring new technologies and I am often obsessed by how things actually work under the hood!! :-)</p>
-                    <p>I'm keen on operating systems, micro/macro-kernels, hardwares, math, basketballs.</p>
+                    <p>I am a computer grad student from UNSW. I love exploring new technologies and I am often obsessed with figuring out how things actually work under the hood!! :-)</p>
+                    <p>I'm keen on operating systems, micro/macro-kernels, hardware, math, basketball and cooking.</p>
                   </div>
                 </div>
               </div>
@@ -49,7 +49,7 @@ function About() {
                 </span>
                 <div className="desc">
                   <h3>Data Structures & Algorithms</h3>
-                  <p>I have a solid background in math, data structures as well as algorithms. </p>
+                  <p>I have a solid background in math, data structures as well as algorithms </p>
                 </div>
               </div>
             </div>
@@ -73,7 +73,7 @@ function About() {
                 </span>
                 <div className="desc">
                   <h3>Finance</h3>
-                  <p>I've done my bachelor's in financial engineering and I've been teaching myself quantitative finance.</p>
+                  <p>I've done my bachelor's in financial engineering and I've been teaching myself quantitative finance</p>
                 </div>
               </div>
             </div>

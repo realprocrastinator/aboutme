@@ -10,6 +10,7 @@ services:
     volumes:
       - '.:/gjw-web'
       - '/gjw-web/node_modules'
+    command: sh -c "npm run start"
     ports:
       - 3000:3000
     environment:
